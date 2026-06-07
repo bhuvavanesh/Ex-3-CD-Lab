@@ -1,8 +1,8 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 
-# Date: 13/05/26
-# Name: S.YOGESH
-# Reg.No: 212224230311
+# Date: 7/06/26
+# Name: bhuvanesh kumar
+# Reg.No: 212223040027
 
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
